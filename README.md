@@ -1,4 +1,4 @@
-# aws dynamodb on local
+# AWS DynamoDB on local
 
 run buildandrun.sh to build locally and run the docker container or run:
 
