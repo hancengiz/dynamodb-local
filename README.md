@@ -15,9 +15,7 @@ docker run -p8000:8000 -p8001:8001 dynamodb_local
 ```
 
 ### navigate to
-```bash
-http://localhost:8001 for admin UI
-```
+http://localhost:8001  for admin UI
 
 **source code** :
 https://github.com/hancengiz/dynamodb-local
